@@ -1,0 +1,9 @@
+19373479
+print int : 2
+print int : 2
+print int : 0
+print int : 51
+print int : 76
+print int : 28899
+print int : -45015
+print int : 231286
